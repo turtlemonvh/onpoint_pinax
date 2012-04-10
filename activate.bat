@@ -1,0 +1,1 @@
+C:\Python27\VIRTUAL_ENVS\onpoint_pinax\Scripts\activate.bat
